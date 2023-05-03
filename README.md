@@ -12,5 +12,6 @@ In IntelliJ IDEA do the following steps:
 1. FILE -> PROJECT STRUCTURE
 2. Select LIBRARIES in the menu on the left
 ![Add lib from maven](/assets/frommaven.PNG)
-3. In the following dialog search for **org.xerial:sqlite-jdbc** and select the latest version (at the time of writing this is **org.xerial:sqlite-jdbc:3.32.3.1**)
-4. Click OK and select your project
+3. In the following dialog search for **org.xerial:sqlite-jdbc** and select the latest version (at the time of writing this is **org.xerial:sqlite-jdbc:3.41.2.1**)
+* If there are not result try to search for **sqlite-jdbc** first and then for **org.xerial:sqlite-jdbc**
+5. Click OK and select your project
